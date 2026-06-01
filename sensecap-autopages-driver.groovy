@@ -4,7 +4,7 @@
  */
 
 /**
- * SenseCAP Auto-Pages Driver v5.0.0
+ * SenseCAP Auto-Pages Driver v5.0.1
  *
  * Hubitat driver for the SenseCAP Indicator D1 (480x480) running openHASP firmware.
  * Communicates via MQTT. Up to 6 pages, each with a user-selected sensor type and
