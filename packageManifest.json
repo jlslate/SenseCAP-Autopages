@@ -3,9 +3,9 @@
   "author": "jlslate (slate)",
   "minimumHEVersion": "2.3.0",
   "licenseFile": "",
-  "releaseNotes": "5.0.0 -- Per-page drain timers; atomic light tile jsonl; pushInProgress gate; Remove page button; add page 6 fix; 6-page rendering fixed",
+  "releaseNotes": "5.0.1 -- Type-scoped device inputs; delete page shifts correctly; 1/1 indicator fix",
   "dateReleased": "2026-06-01",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "apps": [
     {
       "id": "f1a2b3c4-0001-0001-0001-000000000001",
@@ -15,7 +15,7 @@
       "required": false,
       "primary": false,
       "oauth": false,
-      "version": "5.0.0",
+      "version": "5.0.1",
       "betaLocation": ""
     },
     {
@@ -26,7 +26,7 @@
       "required": false,
       "primary": true,
       "oauth": false,
-      "version": "5.0.0",
+      "version": "5.0.1",
       "betaLocation": ""
     }
   ],
@@ -37,7 +37,7 @@
       "namespace": "jlslate",
       "location": "https://raw.githubusercontent.com/jlslate/Sensecap-Sensor-Monitor/main/sensecap-sensor-driver.groovy",
       "required": false,
-      "version": "5.0.0",
+      "version": "5.0.1",
       "betaLocation": ""
     },
     {
@@ -46,39 +46,7 @@
       "namespace": "jlslate",
       "location": "https://raw.githubusercontent.com/jlslate/Sensecap-Sensor-Monitor/main/sensecap-autopages-driver.groovy",
       "required": false,
-      "version": "5.0.0",
-      "betaLocation": ""
-    }
-  ]
-}      "namespace": "jlslate",
-      "location": "https://raw.githubusercontent.com/jlslate/Sensecap-Sensor-Monitor/main/sensecap-sensor-driver.groovy",
-      "required": false,
-      "version": "4.4.0",
-      "betaLocation": ""
-    },
-    {
-      "id": "f1a2b3c4-0004-0004-0004-000000000004",
-      "name": "SenseCAP Auto-Pages Monitor",
-      "namespace": "jlslate",
-      "location": "https://raw.githubusercontent.com/jlslate/Sensecap-Sensor-Monitor/main/sensecap-autopages-driver.groovy",
-      "required": false,
-      "version": "4.4.0",
-      "betaLocation": ""
-    }
-  ]
-}      "namespace": "community",
-      "location": "https://raw.githubusercontent.com/jlslate/Sensecap-Sensor-Monitor/main/sensecap-sensor-driver.groovy",
-      "required": false,
-      "version": "4.4.0",
-      "betaLocation": ""
-    },
-    {
-      "id": "f1a2b3c4-0004-0004-0004-000000000004",
-      "name": "SenseCAP Auto-Pages Monitor",
-      "namespace": "community",
-      "location": "https://raw.githubusercontent.com/jlslate/Sensecap-Sensor-Monitor/main/sensecap-autopages-driver.groovy",
-      "required": false,
-      "version": "4.4.0",
+      "version": "5.0.1",
       "betaLocation": ""
     }
   ]
