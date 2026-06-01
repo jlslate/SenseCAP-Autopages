@@ -1,6 +1,6 @@
 # SenseCAP Auto-Pages Monitor
 
-**Version 5.0.0**
+**Version 5.0.1**
 
 A Hubitat app + driver pair for the [SenseCAP Indicator D1](https://www.seeedstudio.com/SenseCAP-Indicator-D1-p-5643.html) (480×480 touchscreen) running [openHASP](https://openhasp.haswitchplate.com/) firmware. Displays up to 6 pages of sensor states via MQTT, with tap-to-toggle light control.
 
